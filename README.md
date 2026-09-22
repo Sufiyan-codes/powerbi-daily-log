@@ -1,2 +1,2 @@
-# powerbi-daily-log
+# Power Bi - Log
 ## Day-01

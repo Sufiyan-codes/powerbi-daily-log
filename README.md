@@ -1,2 +1,1 @@
-# Power Bi - Log
-## Day-01
+# Power BI is used to visualise data 
